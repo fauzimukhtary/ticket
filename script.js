@@ -1,10 +1,10 @@
 "use strict";
 
-console.log("")
+console.log("");
 console.log("-----------------------");
 console.log("--- Tiket Masuk Zoo ---");
 console.log("-----------------------");
-console.log("")
+console.log("");
 
 const pengunjung = [
   {
@@ -50,5 +50,5 @@ for (let i = 0; i < pengunjung.length; i++) {
   console.log("Nama pengunjung :", namaPengunjung);
   console.log("Umur            :", umur, "tahun");
   console.log("Keterangan      :", pesan);
-  console.log("")
+  console.log("");
 }
